@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./urkundenbuchder04sachgoog_0934.png"; bbox 0 0 3525 5209; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 828 664 2518 928">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 828 664 2518 928">
+     <span class='ocr_line' id='line_1_1' title="bbox 828 664 2518 797; baseline 0.007 -37"><span class='ocrx_word' id='word_1_1' title='bbox 828 720 831 727; x_wconf 55' lang='lat'><strong><em>⁴</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 928 664 947 684; x_wconf 16' lang='lat'>⁵¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 1116 672 2518 797; x_wconf 47' lang='grc' dir='ltr'>Αῇπεοίᾗᾶεῡεῃτιεᾱεγὶηῃω</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 935 780 2516 928; baseline 0.001 -61"><span class='ocrx_word' id='word_1_4' title='bbox 935 780 1464 928; x_wconf 38' lang='lat' dir='ltr'>{ih-retain&amp;</span> <span class='ocrx_word' id='word_1_5' title='bbox 1523 792 1583 856; x_wconf 79' lang='lat' dir='ltr'>it</span> <span class='ocrx_word' id='word_1_6' title='bbox 1643 796 1915 876; x_wconf 66' lang='lat' dir='ltr'>beyond</span> <span class='ocrx_word' id='word_1_7' title='bbox 1979 804 2096 868; x_wconf 63' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_8' title='bbox 2156 816 2472 888; x_wconf 56' lang='lat' dir='ltr'>apud-fied</span> <span class='ocrx_word' id='word_1_9' title='bbox 2512 873 2516 887; x_wconf 4' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1111 948 1984 1048">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1111 948 1984 1048">
+     <span class='ocr_line' id='line_1_3' title="bbox 1111 948 1984 1048; baseline -0.005 -6"><span class='ocrx_word' id='word_1_10' title='bbox 1111 948 1351 1016; x_wconf 56' lang='lat' dir='ltr'>HQ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1371 960 1603 1024; x_wconf 57' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_12' title='bbox 1626 972 1984 1048; x_wconf 61' lang='lat' dir='ltr'>mmlx.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 766 176 2640 3220">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 766 176 2640 3220">
+     <span class='ocr_line' id='line_1_4' title="bbox 766 176 2640 3220; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 766 176 2640 3220; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
